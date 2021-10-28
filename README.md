@@ -20,6 +20,8 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 ## Step 1. Clone the project
 
+`git clone git@github.com:RtjShreyD/ElectionDapp.git`
+
 ## Step 2. Install dependencies
 ```
 $ cd election
